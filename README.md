@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chandan0360
 - 👀 I’m interested in networking
 - 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on learnig networking
+- 💞️ I’m looking to collaborate on learning networking
 - 📫 learningforchandan2023@gmail.com
 
 <!---
