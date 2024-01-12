@@ -1,0 +1,42 @@
+body{
+    margin: 5rem;
+    background-color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3rem;  
+}
+h1{
+    text-shadow: 20px 2px rgb(240, 230, 230);
+    font-size: 5rem;
+}
+
+hr{
+    border: 2px solid black;
+    width: auto;
+
+}
+.food{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+div{
+    font-size: 1rem;
+    padding: 10px;
+}
+
+#one{
+    text-align: left;
+    font-size: 1rem;
+}
+.onefood{
+    display: flex;
+    justify-content: space-evenly;
+}
+.twofood{
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+    
+}
